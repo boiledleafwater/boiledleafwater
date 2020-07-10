@@ -1,4 +1,4 @@
-### Hi, I'm Kevin Wu. :bridge_at_night: :statue_of_liberty: :tea:
+### Hi, I'm Kevin Wu. :night_with_stars: :statue_of_liberty: :tea:
 
 ~~Wow another asian kevin. how unique~~ :unamused:
 
