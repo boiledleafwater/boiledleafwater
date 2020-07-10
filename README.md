@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin Wu. :bridge_at_night: :statue_of_liberty: :tea:
 
-~~Wow another asian kevin. how unique :unamused:~~
+~~Wow another asian kevin. how unique~~ :unamused:
 
 Right now, I'm a rising junior at **Rutgers University-New Brunswick**, (tentatively) pursuing two B.S. degrees in **computer science** and **mathematics** as well as minoring in **philosophy**.  
 When I'm not working or studying, you can find me:
