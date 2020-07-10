@@ -17,6 +17,6 @@ If you want to recommend me a book/album or have a project you think I would be 
 
  -  :inbox_tray:[LinkedIn](https://www.linkedin.com/in/kevin-wu-576a05126/)
 
- - :email: [kww46@scarletmail.rutgers.edu](mailto:kww46@scarletmail.rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
+ - :email: [My student email](mailto:kww46@scarletmail.rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
 
 Thanks for checking out my github! :wave:
