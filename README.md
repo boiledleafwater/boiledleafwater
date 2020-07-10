@@ -5,7 +5,7 @@
 Right now, I'm a rising junior at **Rutgers University-New Brunswick**, (tentatively) pursuing two B.S. degrees in **computer science** and **mathematics** as well as minoring in **philosophy**.  
 When I'm not working or studying, you can find me:
 
- - :battery: tinkering with electronics
+ - :musical_keyboard: practicing piano
 
  - :books: catching up on reading
 
@@ -13,7 +13,7 @@ When I'm not working or studying, you can find me:
 
  - :headphones: listening to music (peep my [Last.fm](https://www.last.fm/user/boiledleafwater)!)
 
-If you have any recommendations, projects you think I'd be interested in, or just want to say hi, I can be reached at:
+If you want to recommend me a book/album or have a project you think I would be interested in, I can be reached at:
 
  -  :inbox_tray:[LinkedIn](https://www.linkedin.com/in/kevin-wu-576a05126/)
 
