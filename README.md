@@ -2,7 +2,7 @@
 
 ~~Wow another asian kevin. how unique~~ :unamused:
 
-Right now, I'm a rising junior at **Rutgers University-New Brunswick**, (tentatively) pursuing two B.S. degrees in **computer science** and **mathematics** as well as minoring in **philosophy**.  
+Right now, I'm a rising junior at **Rutgers University-New Brunswick**, (tentatively) pursuing two B.S. degrees in **computer science** and **mathematics** as well as minoring in **Asian studies (with a focus on Japanese/Chinese)**.  
 When I'm not working or studying, you can find me:
 
  - :musical_keyboard: practicing piano
