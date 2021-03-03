@@ -2,13 +2,13 @@
 
 ~~Wow another asian kevin. how unique~~ :unamused:
 
-About me:
+Currently:
 
- - Math, CS, Asian Studies (Japanese/Chinese) at Rutgers University-New Brunswick
+ - :school: Math, CS, Asian Studies (Japanese/Chinese) at Rutgers University-New Brunswick
 
 Reach me at:
 
- -  :inbox_tray:[LinkedIn](https://www.linkedin.com/in/kevin-wu-576a05126/)
+ - :inbox_tray:[LinkedIn](https://www.linkedin.com/in/kevin-wu-576a05126/)
 
  - :email: [My student email](mailto:owo.uwu@scarletmail.rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
  
