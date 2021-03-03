@@ -2,21 +2,16 @@
 
 ~~Wow another asian kevin. how unique~~ :unamused:
 
-Right now, I'm a rising junior at **Rutgers University-New Brunswick**, (tentatively) pursuing two B.S. degrees in **computer science** and **mathematics** as well as minoring in **Asian studies (with a focus on Japanese/Chinese)**.  
-When I'm not working or studying, you can find me:
+About me:
 
- - :musical_keyboard: practicing piano
+ - Math, CS, Asian Studies (Japanese/Chinese) at Rutgers University-New Brunswick
 
- - :books: catching up on reading
-
- - :bento: cooking & eating food 
-
- - :headphones: listening to music (peep my [Last.fm](https://www.last.fm/user/boiledleafwater)!)
-
-If you want to recommend me a book/album or have a project you think I would be interested in, I can be reached at:
+Reach me at:
 
  -  :inbox_tray:[LinkedIn](https://www.linkedin.com/in/kevin-wu-576a05126/)
 
- - :email: [My student email](mailto:kww46@scarletmail.rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
+ - :email: [My student email](mailto:owo.uwu@scarletmail.rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
+ 
+ - :minidisc: [Last.fm](https://www.last.fm/user/boiledleafwater)
 
-Thanks for checking out my github! :wave:
+There's not much here right now, but thanks for checking out my github! :wave:
